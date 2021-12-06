@@ -1,5 +1,5 @@
 # WebdriverIO - Demo project
-This Demo automation project uses TypeScript WebdriverIO with Mocha and Chai. Using 'PageObject' design pattern.
+This Demo automation project uses TypeScript WebdriverIO with Mocha and Chai. This project uses the 'PageObject' design pattern.
 
 ## installation
  clone repository and:
